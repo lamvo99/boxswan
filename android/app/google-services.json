@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580585867839",
+    "project_id": "boxswan",
+    "storage_bucket": "boxswan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580585867839:android:d0f42ba31ac7f2dbcd468a",
+        "android_client_info": {
+          "package_name": "com.example.box_swan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580585867839-ufs280r5oigu0gblu0bvjnq75ip4dkma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.box_swan",
+            "certificate_hash": "ee81507a6c064d5d3f5043c65f5b7a02072b4377"
+          }
+        },
+        {
+          "client_id": "580585867839-3ajtng513qr7hmjb3n956bk3qifvq7hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXnwmo6npoa0zVWpreGgONPJPwT9I0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580585867839-3ajtng513qr7hmjb3n956bk3qifvq7hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
